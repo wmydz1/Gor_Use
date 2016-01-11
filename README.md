@@ -36,3 +36,6 @@ gor是使用 Go 实现的类 Ruhoh 静态博客引擎（Ruhoh like），基本�
 Visit http://github.com/wendal/gor
 
 ```
+
+
+![Alt text](images/example.png) 
