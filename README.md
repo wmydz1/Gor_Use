@@ -5,9 +5,12 @@ Visit http://github.com/wendal/gor
 Released under the [MIT License](http://www.opensource.org/licenses/MIT)
 
 ### 图片写法
-md 文件里写
 
-![Alt text]({{urls.media}}/mz.jpg)  
+```
+
+![Alt text]({{urls.media}}/mz.jpg) 
+
+```
 
 对应目录
 /assets/media/mz.jpg
